@@ -1,0 +1,14 @@
+*.orig
+*.tasks
+*.todo
+.bundle
+.byebug_history
+.DS_Store
+.idea/
+backup
+/cache
+log
+log/*.log
+REVISION
+tmp/
+node_modules

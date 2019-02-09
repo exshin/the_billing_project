@@ -1,0 +1,20 @@
+{
+  "application.js": "/packs/application-07b95c784d40d3369e62.js",
+  "application.js.map": "/packs/application-07b95c784d40d3369e62.js.map",
+  "hello_react.js": "/packs/hello_react-66a5c7bd584ffd52fc38.js",
+  "hello_react.js.map": "/packs/hello_react-66a5c7bd584ffd52fc38.js.map",
+  "reactApp/assets/stylesheets/app.css": "/packs/reactApp/assets/stylesheets/app-18dc5d445d6b540038e458da212fd87e.css",
+  "reactApp/assets/stylesheets/app.css.map": "/packs/reactApp/assets/stylesheets/app-18dc5d445d6b540038e458da212fd87e.css.map",
+  "reactApp/assets/stylesheets/app.js": "/packs/reactApp/assets/stylesheets/app-0f65fedacd548cb33f4d.js",
+  "reactApp/assets/stylesheets/app.js.map": "/packs/reactApp/assets/stylesheets/app-0f65fedacd548cb33f4d.js.map",
+  "reactApp/components/landingPage.js": "/packs/reactApp/components/landingPage-b44a986254ea544f7e55.js",
+  "reactApp/components/landingPage.js.map": "/packs/reactApp/components/landingPage-b44a986254ea544f7e55.js.map",
+  "reactApp/components/search/results.js": "/packs/reactApp/components/search/results-7cdda743b30ad6374c5a.js",
+  "reactApp/components/search/results.js.map": "/packs/reactApp/components/search/results-7cdda743b30ad6374c5a.js.map",
+  "reactApp/components/search/search.js": "/packs/reactApp/components/search/search-3ab56dff913984a6bb50.js",
+  "reactApp/components/search/search.js.map": "/packs/reactApp/components/search/search-3ab56dff913984a6bb50.js.map",
+  "reactApp/index.js": "/packs/reactApp/index-af282c59bb2746a5ba99.js",
+  "reactApp/index.js.map": "/packs/reactApp/index-af282c59bb2746a5ba99.js.map",
+  "reactApp/routes.js": "/packs/reactApp/routes-6d28bc7b6ca0ce80c525.js",
+  "reactApp/routes.js.map": "/packs/reactApp/routes-6d28bc7b6ca0ce80c525.js.map"
+}

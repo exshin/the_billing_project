@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Billing Project</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all' %>
+    <%= javascript_include_tag 'application' %>
+
+    <%= javascript_pack_tag 'reactApp/index' %>
+    <%= stylesheet_pack_tag 'reactApp/assets/stylesheets/app' %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
