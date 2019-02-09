@@ -2,28 +2,28 @@
 
 * Ruby version: 2.5.3
 
-####Database setup
+#### Database setup
  - `bundle exec rake db:setup`
  - `bundle exec rake db:migrate`
  - `bundle exec rake db:seed`
  
-####To Annotate Models
+#### To Annotate Models
  - `bundle exec annotate`
  
-####To lint
+#### To lint
  - Run `rubocop --config .rubocop.yml`
  
-####To test
+#### To test
  - Run `bundle exec rspec`
 
-####Local dev mode
+#### Local dev mode
  - `bundle install`
  - `npm install`
  - `yarn install`
  - `foreman start -f Procfile.dev -p 3000`
  - Visit http://localhost:3000/ (after waiting for the javascript to compile!)
  
-####Troubleshooting
+#### Troubleshooting
  - If you are getting errors around webpack not compiling your ES6 jsx, try:
    
    `npm install react --save`
@@ -33,7 +33,7 @@
    `npm install babel-preset-react`
 
 
-####Future Work
+#### Future Work
  - Implement dropdown or selection inputs for fields with limited choices (e.g. true/false)
  - An "Add more search params" functionality to the webapp
  - Show all related objects to the search objects
